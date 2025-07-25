@@ -1,0 +1,88 @@
+{
+	"title": "Soft Blue",
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"settings": {
+		"color": {
+			"duotone": [
+				{
+					"colors": ["#000000", "#ffffff"],
+					"slug": "duotone-1",
+					"name": "Black and white"
+				},
+				{
+					"colors": ["#000000", "#435bfc"],
+					"slug": "duotone-2",
+					"name": "Black and Primary Color"
+				},
+				{
+					"colors": ["#000000", "#6f97ec"],
+					"slug": "duotone-3",
+					"name": "Black and Secondary Color"
+				},
+				{
+					"colors": ["#000000", "#cfd8eb"],
+					"slug": "duotone-4",
+					"name": "Black and Primary Background"
+				},
+				{
+					"colors": ["#000000", "#e7e9ed"],
+					"slug": "duotone-5",
+					"name": "Black and Secondary Background"
+				}
+			],
+			"palette": [
+				{
+					"color": "#f4f6f9",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#000000",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#435bfc",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#6f97ec",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"slug": "text-primary",
+					"color": "#111111",
+					"name": "Primary Text"
+				},
+				{
+					"slug": "text-secondary",
+					"color": "#999999",
+					"name": "Secondary Text"
+				},
+				{
+					"slug": "border-primary",
+					"color": "#00000099",
+					"name": "Primary Border"
+				},
+				{
+					"slug": "border-secondary",
+					"color": "#00000033",
+					"name": "Secondary Border"
+				},
+				{
+					"slug": "background-primary",
+					"color": "#cfd8eb",
+					"name": "Primary Background"
+				},
+				{
+					"slug": "background-secondary",
+					"color": "#e7e9ed",
+					"name": "Secondary Background"
+				}
+			]
+		}
+	}
+}
